@@ -23,7 +23,7 @@ del menu["Gulab Jamun"] #use del keyword top delete element in dictionary
 menu["Palak Paneer"] = 20
 menu["Butter Paneer"] = 40
 
-price = menu["Gulab Jamun"]   # to access the key 
+price = menu["Butter Paneer"]   # to access the key 
 
 # update value 
 menu["Butter Paneer"] = 120
