@@ -1,3 +1,11 @@
+"""
+* * * * * 
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+"""
+
 #pattern printing wityh nested loop
 
 for i in range(1,6):  #1 loop runs for 1st time

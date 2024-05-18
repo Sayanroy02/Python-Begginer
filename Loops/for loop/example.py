@@ -16,3 +16,4 @@ divisor = int(input("Enter divisor : "))
 for i in range(start_num , new_end_num):
     if i % divisor == 0:
         print(i)
+        
